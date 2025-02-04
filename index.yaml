@@ -10,18 +10,18 @@ entries:
       version: 1.2.0
     description: Helm Chart representing a single ClusterRole Kubernetes API object
     digest: 83960ebdd0b6ba856105976e4a946e28b0b0d57d6325bcc1fe95eb27e4e27084
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - clusterrole
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: clusterrole
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/clusterrole-1.0.0/clusterrole-1.0.0.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/clusterrole-1.0.0/clusterrole-1.0.0.tgz
     version: 1.0.0
   clusterrolebinding:
   - apiVersion: v2
@@ -34,18 +34,18 @@ entries:
     description: Helm Chart representing a single ClusterRoleBinding Kubernetes API
       object
     digest: 0373e8bc88b32065e8e75d8a2e38456400f49036b001b30cc8e529e15d657080
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - clusterrolebinding
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: clusterrolebinding
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/clusterrolebinding-1.0.0/clusterrolebinding-1.0.0.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/clusterrolebinding-1.0.0/clusterrolebinding-1.0.0.tgz
     version: 1.0.0
   configmap:
   - apiVersion: v2
@@ -53,8 +53,8 @@ entries:
     created: "2021-01-17T23:30:45.30375225Z"
     description: Helm Chart representing a single ConfigMap Kubernetes API object
     digest: 1c21c49d1a7feed7cfbd2993c13d795cbed42ada0fd13b2cad8b674af545365c
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - configmap
     - cm
@@ -63,18 +63,18 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: configmap
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/configmap-1.0.3/configmap-1.0.3.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/configmap-1.0.3/configmap-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
     appVersion: v1.0.0
     created: "2020-12-12T16:01:27.100402151Z"
     description: Helm Chart representing a single ConfigMap Kubernetes API object
     digest: 62ed3c35c5faa0b5eb6bf215cb64e22473c09b6b759cb85e0bce5712d21f6037
-    home: https://github.com/ameijer/k8s-as-helm
+    home: https://github.com/pedrow-coelho/k8s-as-helm
     keywords:
     - configmap
     - cm
@@ -83,18 +83,18 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: configmap
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/configmap-1.0.2/configmap-1.0.2.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/configmap-1.0.2/configmap-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: v1.0.0
     created: "2020-12-02T19:13:25.444411594Z"
     description: Helm Chart representing a single ConfigMap Kubernetes API object
     digest: 607ebe0b45bbf454216d25c54896ef8083c20bf6d13ea022d23370bbcf2aa8cf
-    home: https://github.com/ameijer/k8s-as-helm
+    home: https://github.com/pedrow-coelho/k8s-as-helm
     keywords:
     - configmap
     - cm
@@ -103,18 +103,18 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: configmap
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/configmap-1.0.1/configmap-1.0.1.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/configmap-1.0.1/configmap-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
     created: "2020-11-09T01:48:39.858046289Z"
     description: Helm Chart representing a single ConfigMap Kubernetes API object
     digest: 79f28614c07a527887e847822787fda3a11c9f36a7865bf737b1f39cf6898cc2
-    home: https://github.com/ameijer/k8s-as-helm
+    home: https://github.com/pedrow-coelho/k8s-as-helm
     keywords:
     - configmap
     - cm
@@ -123,11 +123,11 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: configmap
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/configmap-1.0.0/configmap-1.0.0.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/configmap-1.0.0/configmap-1.0.0.tgz
     version: 1.0.0
   cronjob:
   - apiVersion: v2
@@ -135,12 +135,12 @@ entries:
     created: "2022-12-15T19:43:45.62364766Z"
     dependencies:
     - name: lib-k8s-as-helm
-      repository: https://ameijer.github.io/k8s-as-helm
+      repository: https://pedrow-coelho.github.io/k8s-as-helm
       version: 1.3.0
     description: Helm Chart representing a single CronJob Kubernetes API object
     digest: 0672e865ce072666c496e5ad86afe52666949e392adfccfb335670310a58ac25
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - cronjob
     - cron
@@ -148,11 +148,11 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: cronjob
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/cronjob-1.0.1/cronjob-1.0.1.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/cronjob-1.0.1/cronjob-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
@@ -163,8 +163,8 @@ entries:
       version: 1.1.0
     description: Helm Chart representing a single CronJob Kubernetes API object
     digest: 4a9fbe20b343fece33a913232a1a4df6c24064abd81db5773f136c921f3a38d3
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - cronjob
     - cron
@@ -172,11 +172,11 @@ entries:
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: cronjob
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/cronjob-1.0.0/cronjob-1.0.0.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/cronjob-1.0.0/cronjob-1.0.0.tgz
     version: 1.0.0
   ingress:
   - apiVersion: v2
@@ -184,49 +184,49 @@ entries:
     created: "2022-11-08T19:08:16.896917211Z"
     description: Helm Chart representing a single Ingress Kubernetes API object
     digest: 3859ffce3401e77cdfdc24d2db8febb51d4a1d4b51dd808f927bfcfe4c73162e
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - ingress
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: ingress
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/ingress-1.0.3/ingress-1.0.3.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/ingress-1.0.3/ingress-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
     appVersion: v1.0.0
     created: "2021-01-17T23:30:45.424665359Z"
     description: Helm Chart representing a single Ingress Kubernetes API object
     digest: 30044d6e8fdac8be6a0cfcffd42f0492faee072c937ca6dd966dbf9b428aca88
-    home: https://github.com/ameijer/k8s-as-helm
-    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    home: https://github.com/pedrow-coelho/k8s-as-helm
+    icon: https://pedrow-coelho.github.io/k8s-as-helm/icon.png
     keywords:
     - ingress
     - api
     - primitives
     maintainers:
-    - name: ameijer
-      url: https://github.com/ameijer
+    - name: pedrow-coelho
+      url: https://github.com/pedrow-coelho
     name: ingress
     urls:
-    - https://github.com/ameijer/k8s-as-helm/releases/download/ingress-1.0.2/ingress-1.0.2.tgz
+    - https://github.com/pedrow-coelho/k8s-as-helm/releases/download/ingress-1.0.2/ingress-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: v1.0.0
     created: "2020-12-12T16:01:27.350324243Z"
     description: Helm Chart representing a single Ingress Kubernetes API object
     digest: 951626d7e6de08d922ed939541e61683fb27280925f113787d9c6ba952ea7549
-    home: https://github.com/ameijer/k8s-as-helm
+    home: https://github.com/pedrow-coelho/k8s-as-helm
     keywords:
     - ingress
     - api
     - primitives
     maintainers:
-    - name: ameijer
+    - name: pedrow-coelho
       url: https://github.com/ameijer
     name: ingress
     urls:
